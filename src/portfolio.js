@@ -44,7 +44,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Pentester/Game Developer with skills in Data Science and Machine Learning",
+  subTitle: "Pentester/Game Developer with skills in Data Science and Machine Learning, IOS dev",
   skills: [
     emoji(
       "⚡ Develop games/animations with a team in Unreal Engine"
@@ -52,6 +52,9 @@ const skillsSection = {
     emoji("⚡ Data Scientist with multiple projects completed, Machine Learning experience"),
     emoji(
       "⚡ Pentester with more than 4 years experience"
+    ),
+    emoji(
+      "⚡ IOS dev with 4 years experience"
     )
   ],
 
@@ -151,6 +154,10 @@ const techStack = {
     {
       Stack: "Programming",
       progressPercentage: "90%"
+    },
+    {
+      Stack: "IOS Dev",
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -169,6 +176,26 @@ const workExperiences = {
       desc: "Made a website for Exsim and managed its security",
       descBullets: [
         "Maintained website and mostly looked after the security of the website"
+      ]
+    },
+    {
+      role: "Software Engineer",
+      company: "AO3",
+      companylogo: require("./assets/images/ao3logo.png"),
+      date: "2022-2023",
+      desc: "Made a mobile app for AO3 as a hobby",
+      descBullets: [
+        "Maintained application and released an API in Swift"
+      ]
+    },
+    {
+      role: "Software Engineer",
+      company: "WSC (Worlds Scholars Cup)",
+      companylogo: require("./assets/images/wsclogo.png"),
+      date: "2022-2023",
+      desc: "Made a mobile app for WSC as a hobby as I was part of the community",
+      descBullets: [
+        "Maintained application and has been verified by WSC members"
       ]
     },
   ]
