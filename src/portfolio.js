@@ -132,7 +132,9 @@ const educationInfo = {
       descBullets: [
         "Published multiple pentesting tools throughout school",
         "Completed multiple data analysing jobs for local companies",
-        "Exploited Government Website and submitted full report"
+        "Exploited Government Website and submitted full report",
+        "Invited to Yale for multiple competitions",
+        "Member of NASA Jr Space Expedition 2024 in Houston, Texas"
       ]
     },
   ]
