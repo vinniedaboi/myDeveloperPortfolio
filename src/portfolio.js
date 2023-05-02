@@ -207,7 +207,7 @@ const workExperiences = {
     {
       role: "Leading Programmer, Pentester",
       company: "Cat Mafia/ Six Six Six Corp",
-      companylogo: require(""),
+      companylogo: require("./assets/images/666corpcatmafia.png"),
       date: "2020-Present",
       desc: "Part of two hacking groups that have both over 10 years of experience in CTFs",
       descBullets: [
