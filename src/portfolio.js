@@ -23,7 +23,7 @@ const greeting = {
   username: "Vincent Ng",
   title: "Hello there, I'm Vinnie",
   subTitle: emoji(
-    "A passionate programmer 🚀 having more than 4 years of experience in Animations/Game Dev in Unreal Engine, Pentesting, Rust, Python, C, C++, C#, Machine Learning w/Tensorflow"
+    "A passionate programmer 🚀 having more than 4 years of experience in Animations/Game Dev in Unreal Engine, Pentesting, Rust, Python, C, C++, C#, Machine Learning w/Tensorflow, IOS Dev"
   ),
   resumeLink:
     "", // Set to empty to hide the button
@@ -158,6 +158,10 @@ const techStack = {
     {
       Stack: "IOS Dev",
       progressPercentage: "90%"
+    },
+    {
+      Stack: "Machine Learning",
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
