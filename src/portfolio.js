@@ -204,6 +204,16 @@ const workExperiences = {
         "Maintained application and has been verified by WSC members"
       ]
     },
+    {
+      role: "Leading Programmer, Pentester",
+      company: "Cat Mafia/ Six Six Six Corp",
+      companylogo: require(""),
+      date: "2020-Present",
+      desc: "Part of two hacking groups that have both over 10 years of experience in CTFs",
+      descBullets: [
+        "Made multiple tools under both teams, achieved top 50 in CTFs"
+      ]
+    },
   ]
 };
 
@@ -380,7 +390,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
