@@ -333,14 +333,9 @@ const blogSection = {
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
+
   ],
-  display:false // Set false to hide this section, defaults to true
+  display:true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
