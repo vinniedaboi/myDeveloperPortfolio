@@ -334,7 +334,7 @@ const blogSection = {
         "Make your first cinematic in UE5 with a detailed tutorial using blueprints"
     },
     {
-      url:"https://figshare.com/s/41bc009ea49708f88b96",
+      url:"https://www.techrxiv.org/articles/preprint/Rust_vs_C_a_Battle_of_Speed_and_Efficiency/22792553",
       title:"Rust vs C++, A Battle of Speed and Efficiency",
       description: "A reserach paper on Rust's performance compared to C++"
     }
