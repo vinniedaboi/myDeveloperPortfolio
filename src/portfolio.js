@@ -336,7 +336,12 @@ const blogSection = {
     {
       url:"https://www.opastpublishers.com/open-access-articles/rust-vs-c-a-battle-of-speed-and-efficiency.pdf",
       title:"Rust vs C++, A Battle of Speed and Efficiency",
-      description: "A reserach paper on Rust's performance compared to C++"
+      description: "A research paper on Rust's performance compared to C++"
+    },
+    {
+      url:"https://www.techrxiv.org/articles/preprint/Using_Machine_Learning_to_Predict_the_Future_of_Stock_Prices/23586378",
+      title:"Using Machine Learning to Predict the Future of Stock Prices",
+      description:"A research paper on Machine Learning with Stock Prices"
     }
   ],
   display:true // Set false to hide this section, defaults to true
