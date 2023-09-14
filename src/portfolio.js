@@ -23,7 +23,7 @@ const greeting = {
   username: "Vincent Ng",
   title: "Hello there, I'm Vinnie",
   subTitle: emoji(
-    "A passionate programmer 🚀 having more than 4 years of experience in Animations/Game Dev in Unreal Engine, Pentesting, Rust, Python, C, C++, C#, Machine Learning w/Tensorflow, IOS Dev"
+    "A passionate programmer 🚀 having more than 4 years of experience in Animations/Game Dev in Unreal Engine, Pentesting, Rust, Python, C, C++, C#, Machine Learning w/Tensorflow, IOS Dev and Full Stack Dev"
   ),
   resumeLink:
     "", // Set to empty to hide the button
@@ -55,6 +55,9 @@ const skillsSection = {
     ),
     emoji(
       "⚡ IOS dev with 4 years experience"
+    ),
+    emoji(
+      "⚡ Full Stack Next.js Dev with 2 years experience"
     )
   ],
 
@@ -163,6 +166,10 @@ const techStack = {
     },
     {
       Stack: "Machine Learning",
+      progressPercentage: "70%"
+    },
+    {
+      Stack: "Next.Js",
       progressPercentage: "70%"
     }
   ],
